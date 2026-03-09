@@ -96,7 +96,7 @@ if page == "Home":
     
 elif page == "Dashboard":
 
-     st.title("Uber Eats Data Analysis Dashboard")
+     st.title("Uber Eats Restaurant_Data Analysis Dashboard")
 
 
      question = st.selectbox(
@@ -275,7 +275,7 @@ elif page == "Dashboard":
 # Save changes
      conn.commit()
 
-     st.success("Orders table created successfully!")
+     # st.success("Orders table created successfully!")
 
 # Insert data into table
 
@@ -295,7 +295,9 @@ elif page == "Dashboard":
      mycursor.executemany(query, data)
      conn.commit()
 
-     st.success("Data inserted successfully!")
+     # st.success("Data inserted successfully!")
+
+     st.title("Order_Data Analysis Dashboard")
 
      question = st.selectbox(
      "Select Question",
