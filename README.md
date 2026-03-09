@@ -131,12 +131,11 @@ streamlit run app.py
 
 ### Filters Section
 
-<img width="787" height="397" alt="image" src="https://github.com/user-attachments/assets/b5021c05-3e8f-4a46-97c6-b49588452791" />
+<img width="782" height="409" alt="image" src="https://github.com/user-attachments/assets/0cdbfb0f-1c13-4ef5-9299-d1edcc3fb664" />
 
-### Data Insights
+### Dashboard Page
 
-<img width="769" height="479" alt="image" src="https://github.com/user-attachments/assets/2f844d7d-1a23-4609-9aa8-4b7148b1498e" />
-
+<img width="788" height="301" alt="image" src="https://github.com/user-attachments/assets/85bcb29d-bb50-46b5-928c-bf79ad920a4d" />
 
 ---
 
